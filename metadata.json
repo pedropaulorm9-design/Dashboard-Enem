@@ -1,0 +1,5 @@
+{
+  "name": "ENEM dashboard",
+  "description": "Acompanhe seu desempenho em questões do ENEM por matéria e assunto.",
+  "requestFramePermissions": []
+}
